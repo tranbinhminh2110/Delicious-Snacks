@@ -4,6 +4,12 @@
 
 This document outlines a shop that sells snacks through an online method.
 
+##Students:
+- Tran Binh Minh(18)
+- Dang Thanh Long(17)
+- Pham Huu Tri(19)
+- Pham Huu Tri(7)
+
 ## Requirements
 - Our system is called Delicious Snacks. It can be understood simply that 
 a website was born to assist users (who are website visitors) to be able to 
