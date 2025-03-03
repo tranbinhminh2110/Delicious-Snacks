@@ -4,7 +4,7 @@
 
 This document outlines a shop that sells snacks through an online method.
 
-##Students:
+## Students:
 - Tran Binh Minh(18)
 - Dang Thanh Long(17)
 - Pham Huu Tri(19)
